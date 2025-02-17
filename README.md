@@ -72,18 +72,24 @@ Here are some of my notable projects. Hover over the cards to see more details!
 
 ---
 
+## 🚀 My Projects
+
+Here are some of my notable projects. Hover over the cards to see more details!
+
+---
+
 <!-- Bento Layout -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
   <!-- Project Card 1 -->
   <div style="background: rgba(255, 255, 255, 0.1); border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06); backdrop-filter: blur(10px); transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06)';">
     <a href="https://example.com" target="_blank">
-      <img src="https://via.placeholder.com/300x150?text=Project+1" alt="Project 1 Preview" style="width: 100%; border-top-left-radius: 15px; border-top-right-radius: 15px; filter: brightness(90%); transition: filter 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(100%)';" onmouseout="this.style.filter='brightness(90%)';"/>
+      <img src="https://i.imgur.com/ivNo2J2.png" alt="Project 1 Preview" style="width: 100%; border-top-left-radius: 15px; border-top-right-radius: 15px; filter: brightness(90%); transition: filter 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(100%)';" onmouseout="this.style.filter='brightness(90%)';"/>
     </a>
     <div style="padding: 15px;">
-      <h3 style="margin: 0; font-size: 1.2em; color: #fff;">Project Name</h3>
-      <p style="margin: 10px 0; font-size: 0.9em; color: #d1d1d1;">Brief description of the project.</p>
-      <p style="margin: 10px 0; font-size: 0.8em; color: #aaa;"><code>Tech Stack: HTML, CSS, JavaScript, React</code></p>
+      <h3 style="margin: 0; font-size: 1.2em; color: #fff;">E-commerce Website</h3>
+      <p style="margin: 10px 0; font-size: 0.9em; color: #d1d1d1;">A fully functional e-commerce platform built with React and Node.js.</p>
+      <p style="margin: 10px 0; font-size: 0.8em; color: #aaa;"><code>Tech Stack: React, Node.js, MongoDB, CSS</code></p>
       <div style="display: flex; justify-content: space-between;">
         <a href="https://example.com" target="_blank" style="text-decoration: none; color: #007BFF; font-weight: bold;">Live Demo</a>
         <a href="https://github.com/your-username/repo-name" target="_blank" style="text-decoration: none; color: #28A745; font-weight: bold;">Source Code</a>
@@ -94,12 +100,12 @@ Here are some of my notable projects. Hover over the cards to see more details!
   <!-- Project Card 2 -->
   <div style="background: rgba(255, 255, 255, 0.1); border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06); backdrop-filter: blur(10px); transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06)';">
     <a href="https://example.com" target="_blank">
-      <img src="https://via.placeholder.com/300x150?text=Project+2" alt="Project 2 Preview" style="width: 100%; border-top-left-radius: 15px; border-top-right-radius: 15px; filter: brightness(90%); transition: filter 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(100%)';" onmouseout="this.style.filter='brightness(90%)';"/>
+      <img src="https://i.imgur.com/wX5ZlpC.jpeg" alt="Project 2 Preview" style="width: 100%; border-top-left-radius: 15px; border-top-right-radius: 15px; filter: brightness(90%); transition: filter 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(100%)';" onmouseout="this.style.filter='brightness(90%)';"/>
     </a>
     <div style="padding: 15px;">
-      <h3 style="margin: 0; font-size: 1.2em; color: #fff;">Project Name</h3>
-      <p style="margin: 10px 0; font-size: 0.9em; color: #d1d1d1;">Brief description of the project.</p>
-      <p style="margin: 10px 0; font-size: 0.8em; color: #aaa;"><code>Tech Stack: WordPress, PHP, MySQL</code></p>
+      <h3 style="margin: 0; font-size: 1.2em; color: #fff;">Portfolio Website</h3>
+      <p style="margin: 10px 0; font-size: 0.9em; color: #d1d1d1;">A modern portfolio website showcasing my skills and projects.</p>
+      <p style="margin: 10px 0; font-size: 0.8em; color: #aaa;"><code>Tech Stack: HTML, CSS, JavaScript, Webflow</code></p>
       <div style="display: flex; justify-content: space-between;">
         <a href="https://example.com" target="_blank" style="text-decoration: none; color: #007BFF; font-weight: bold;">Live Demo</a>
         <a href="https://github.com/your-username/repo-name" target="_blank" style="text-decoration: none; color: #28A745; font-weight: bold;">Source Code</a>
@@ -110,18 +116,19 @@ Here are some of my notable projects. Hover over the cards to see more details!
   <!-- Project Card 3 -->
   <div style="background: rgba(255, 255, 255, 0.1); border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06); backdrop-filter: blur(10px); transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06)';">
     <a href="https://example.com" target="_blank">
-      <img src="https://via.placeholder.com/300x150?text=Project+3" alt="Project 3 Preview" style="width: 100%; border-top-left-radius: 15px; border-top-right-radius: 15px; filter: brightness(90%); transition: filter 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(100%)';" onmouseout="this.style.filter='brightness(90%)';"/>
+      <img src="https://i.imgur.com/95WI6Hs.jpeg" alt="Project 3 Preview" style="width: 100%; border-top-left-radius: 15px; border-top-right-radius: 15px; filter: brightness(90%); transition: filter 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(100%)';" onmouseout="this.style.filter='brightness(90%)';"/>
     </a>
     <div style="padding: 15px;">
-      <h3 style="margin: 0; font-size: 1.2em; color: #fff;">Project Name</h3>
-      <p style="margin: 10px 0; font-size: 0.9em; color: #d1d1d1;">Brief description of the project.</p>
-      <p style="margin: 10px 0; font-size: 0.8em; color: #aaa;"><code>Tech Stack: Webflow, CSS, JavaScript</code></p>
+      <h3 style="margin: 0; font-size: 1.2em; color: #fff;">Blog Platform</h3>
+      <p style="margin: 10px 0; font-size: 0.9em; color: #d1d1d1;">A dynamic blog platform built with WordPress and custom themes.</p>
+      <p style="margin: 10px 0; font-size: 0.8em; color: #aaa;"><code>Tech Stack: WordPress, PHP, MySQL, CSS</code></p>
       <div style="display: flex; justify-content: space-between;">
         <a href="https://example.com" target="_blank" style="text-decoration: none; color: #007BFF; font-weight: bold;">Live Demo</a>
         <a href="https://github.com/your-username/repo-name" target="_blank" style="text-decoration: none; color: #28A745; font-weight: bold;">Source Code</a>
       </div>
     </div>
   </div>
+
 </div>
 
 ---
