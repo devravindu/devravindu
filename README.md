@@ -66,11 +66,6 @@ Here’s what I work with:
 ---
 
 <!-- START: Projects -->
-## 🚀 My Projects
-
-Here are some of my notable projects. Hover over the cards to see more details!
-
----
 
 ## 🚀 My Projects
 
@@ -81,50 +76,82 @@ Here are some of my notable projects. Hover over the cards to see more details!
 <!-- Bento Layout -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
-  <!-- Project Card 1 -->
-  <div style="background: rgba(255, 255, 255, 0.1); border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06); backdrop-filter: blur(10px); transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06)';">
-    <a href="https://example.com" target="_blank">
-      <img src="https://i.imgur.com/ivNo2J2.png" alt="Project 1 Preview" style="width: 100%; border-top-left-radius: 15px; border-top-right-radius: 15px; filter: brightness(90%); transition: filter 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(100%)';" onmouseout="this.style.filter='brightness(90%)';"/>
+  <!-- Project Card 1: AI-Powered Data Analyzer -->
+  <div style="background: linear-gradient(145deg, #2b2b2b, #3c3c3c); border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.15); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.3), 0 4px 8px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.15)';">
+    <a href="#" target="_blank">
+      <img src="https://via.placeholder.com/300x200.png?text=AI+Data+Analyzer" alt="AI Data Analyzer Preview" style="width: 100%; border-top-left-radius: 12px; border-top-right-radius: 12px; object-fit: cover; filter: brightness(0.9); transition: filter 0.3s ease;" onmouseover="this.style.filter='brightness(1)';" onmouseout="this.style.filter='brightness(0.9)';"/>
     </a>
-    <div style="padding: 15px;">
-      <h3 style="margin: 0; font-size: 1.2em; color: #fff;">E-commerce Website</h3>
-      <p style="margin: 10px 0; font-size: 0.9em; color: #d1d1d1;">A fully functional e-commerce platform built with React and Node.js.</p>
-      <p style="margin: 10px 0; font-size: 0.8em; color: #aaa;"><code>Tech Stack: React, Node.js, MongoDB, CSS</code></p>
-      <div style="display: flex; justify-content: space-between;">
-        <a href="https://example.com" target="_blank" style="text-decoration: none; color: #007BFF; font-weight: bold;">Live Demo</a>
-        <a href="https://github.com/your-username/repo-name" target="_blank" style="text-decoration: none; color: #28A745; font-weight: bold;">Source Code</a>
+    <div style="padding: 20px;">
+      <h3 style="margin: 0 0 10px 0; font-size: 1.3em; color: #e0e0e0;">AI-Powered Data Analyzer</h3>
+      <p style="margin: 0 0 15px 0; font-size: 0.95em; color: #b0b0b0; line-height: 1.5;">A tool that uses machine learning to analyze and visualize complex datasets, providing actionable insights.</p>
+      <p style="margin: 0 0 15px 0; font-size: 0.85em; color: #888;"><code>Tech: Python, Flask, React, D3.js</code></p>
+      <div style="display: flex; justify-content: space-between; gap: 10px;">
+        <a href="#" target="_blank" style="text-decoration: none; color: #3498db; font-weight: 600; padding: 8px 12px; border: 1px solid #3498db; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#3498db'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#3498db';">Live Demo</a>
+        <a href="#" target="_blank" style="text-decoration: none; color: #5cb85c; font-weight: 600; padding: 8px 12px; border: 1px solid #5cb85c; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#5cb85c'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#5cb85c';">Source Code</a>
       </div>
     </div>
   </div>
 
-  <!-- Project Card 2 -->
-  <div style="background: rgba(255, 255, 255, 0.1); border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06); backdrop-filter: blur(10px); transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06)';">
-    <a href="https://example.com" target="_blank">
-      <img src="https://i.imgur.com/wX5ZlpC.jpeg" alt="Project 2 Preview" style="width: 100%; border-top-left-radius: 15px; border-top-right-radius: 15px; filter: brightness(90%); transition: filter 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(100%)';" onmouseout="this.style.filter='brightness(90%)';"/>
+  <!-- Project Card 2: Eco-Friendly Marketplace -->
+  <div style="background: linear-gradient(145deg, #2b2b2b, #3c3c3c); border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.15); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.3), 0 4px 8px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.15)';">
+    <a href="#" target="_blank">
+      <img src="https://via.placeholder.com/300x200.png?text=Eco+Marketplace" alt="Eco Marketplace Preview" style="width: 100%; border-top-left-radius: 12px; border-top-right-radius: 12px; object-fit: cover; filter: brightness(0.9); transition: filter 0.3s ease;" onmouseover="this.style.filter='brightness(1)';" onmouseout="this.style.filter='brightness(0.9)';"/>
     </a>
-    <div style="padding: 15px;">
-      <h3 style="margin: 0; font-size: 1.2em; color: #fff;">Portfolio Website</h3>
-      <p style="margin: 10px 0; font-size: 0.9em; color: #d1d1d1;">A modern portfolio website showcasing my skills and projects.</p>
-      <p style="margin: 10px 0; font-size: 0.8em; color: #aaa;"><code>Tech Stack: HTML, CSS, JavaScript, Webflow</code></p>
-      <div style="display: flex; justify-content: space-between;">
-        <a href="https://example.com" target="_blank" style="text-decoration: none; color: #007BFF; font-weight: bold;">Live Demo</a>
-        <a href="https://github.com/your-username/repo-name" target="_blank" style="text-decoration: none; color: #28A745; font-weight: bold;">Source Code</a>
+    <div style="padding: 20px;">
+      <h3 style="margin: 0 0 10px 0; font-size: 1.3em; color: #e0e0e0;">Eco-Friendly Marketplace</h3>
+      <p style="margin: 0 0 15px 0; font-size: 0.95em; color: #b0b0b0; line-height: 1.5;">An e-commerce platform connecting buyers and sellers of sustainable and eco-friendly products.</p>
+      <p style="margin: 0 0 15px 0; font-size: 0.85em; color: #888;"><code>Tech: Next.js, Node.js, PostgreSQL, Tailwind</code></p>
+      <div style="display: flex; justify-content: space-between; gap: 10px;">
+        <a href="#" target="_blank" style="text-decoration: none; color: #3498db; font-weight: 600; padding: 8px 12px; border: 1px solid #3498db; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#3498db'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#3498db';">Live Demo</a>
+        <a href="#" target="_blank" style="text-decoration: none; color: #5cb85c; font-weight: 600; padding: 8px 12px; border: 1px solid #5cb85c; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#5cb85c'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#5cb85c';">Source Code</a>
       </div>
     </div>
   </div>
 
-  <!-- Project Card 3 -->
-  <div style="background: rgba(255, 255, 255, 0.1); border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06); backdrop-filter: blur(10px); transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06)';">
-    <a href="https://example.com" target="_blank">
-      <img src="https://i.imgur.com/95WI6Hs.jpeg" alt="Project 3 Preview" style="width: 100%; border-top-left-radius: 15px; border-top-right-radius: 15px; filter: brightness(90%); transition: filter 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(100%)';" onmouseout="this.style.filter='brightness(90%)';"/>
+  <!-- Project Card 3: Interactive Storytelling Game -->
+  <div style="background: linear-gradient(145deg, #2b2b2b, #3c3c3c); border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.15); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.3), 0 4px 8px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.15)';">
+    <a href="#" target="_blank">
+      <img src="https://via.placeholder.com/300x200.png?text=Story+Game" alt="Interactive Story Game Preview" style="width: 100%; border-top-left-radius: 12px; border-top-right-radius: 12px; object-fit: cover; filter: brightness(0.9); transition: filter 0.3s ease;" onmouseover="this.style.filter='brightness(1)';" onmouseout="this.style.filter='brightness(0.9)';"/>
     </a>
-    <div style="padding: 15px;">
-      <h3 style="margin: 0; font-size: 1.2em; color: #fff;">Blog Platform</h3>
-      <p style="margin: 10px 0; font-size: 0.9em; color: #d1d1d1;">A dynamic blog platform built with WordPress and custom themes.</p>
-      <p style="margin: 10px 0; font-size: 0.8em; color: #aaa;"><code>Tech Stack: WordPress, PHP, MySQL, CSS</code></p>
-      <div style="display: flex; justify-content: space-between;">
-        <a href="https://example.com" target="_blank" style="text-decoration: none; color: #007BFF; font-weight: bold;">Live Demo</a>
-        <a href="https://github.com/your-username/repo-name" target="_blank" style="text-decoration: none; color: #28A745; font-weight: bold;">Source Code</a>
+    <div style="padding: 20px;">
+      <h3 style="margin: 0 0 10px 0; font-size: 1.3em; color: #e0e0e0;">Interactive Storytelling Game</h3>
+      <p style="margin: 0 0 15px 0; font-size: 0.95em; color: #b0b0b0; line-height: 1.5;">A web-based game where users make choices that dynamically affect the narrative and outcome.</p>
+      <p style="margin: 0 0 15px 0; font-size: 0.85em; color: #888;"><code>Tech: Vue.js, Firebase, HTML5 Canvas</code></p>
+      <div style="display: flex; justify-content: space-between; gap: 10px;">
+        <a href="#" target="_blank" style="text-decoration: none; color: #3498db; font-weight: 600; padding: 8px 12px; border: 1px solid #3498db; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#3498db'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#3498db';">Live Demo</a>
+        <a href="#" target="_blank" style="text-decoration: none; color: #5cb85c; font-weight: 600; padding: 8px 12px; border: 1px solid #5cb85c; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#5cb85c'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#5cb85c';">Source Code</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Project Card 4: Personal Finance Tracker -->
+  <div style="background: linear-gradient(145deg, #2b2b2b, #3c3c3c); border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.15); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.3), 0 4px 8px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.15)';">
+    <a href="#" target="_blank">
+      <img src="https://via.placeholder.com/300x200.png?text=Finance+Tracker" alt="Personal Finance Tracker Preview" style="width: 100%; border-top-left-radius: 12px; border-top-right-radius: 12px; object-fit: cover; filter: brightness(0.9); transition: filter 0.3s ease;" onmouseover="this.style.filter='brightness(1)';" onmouseout="this.style.filter='brightness(0.9)';"/>
+    </a>
+    <div style="padding: 20px;">
+      <h3 style="margin: 0 0 10px 0; font-size: 1.3em; color: #e0e0e0;">Personal Finance Tracker</h3>
+      <p style="margin: 0 0 15px 0; font-size: 0.95em; color: #b0b0b0; line-height: 1.5;">A user-friendly web app to track income, expenses, and set budgets, helping users manage their finances effectively.</p>
+      <p style="margin: 0 0 15px 0; font-size: 0.85em; color: #888;"><code>Tech: Ruby on Rails, StimulusJS, PostgreSQL, Chart.js</code></p>
+      <div style="display: flex; justify-content: space-between; gap: 10px;">
+        <a href="#" target="_blank" style="text-decoration: none; color: #3498db; font-weight: 600; padding: 8px 12px; border: 1px solid #3498db; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#3498db'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#3498db';">Live Demo</a>
+        <a href="#" target="_blank" style="text-decoration: none; color: #5cb85c; font-weight: 600; padding: 8px 12px; border: 1px solid #5cb85c; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#5cb85c'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#5cb85c';">Source Code</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Project Card 5: Community Event Platform -->
+  <div style="background: linear-gradient(145deg, #2b2b2b, #3c3c3c); border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.15); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.3), 0 4px 8px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.15)';">
+    <a href="#" target="_blank">
+      <img src="https://via.placeholder.com/300x200.png?text=Event+Platform" alt="Community Event Platform Preview" style="width: 100%; border-top-left-radius: 12px; border-top-right-radius: 12px; object-fit: cover; filter: brightness(0.9); transition: filter 0.3s ease;" onmouseover="this.style.filter='brightness(1)';" onmouseout="this.style.filter='brightness(0.9)';"/>
+    </a>
+    <div style="padding: 20px;">
+      <h3 style="margin: 0 0 10px 0; font-size: 1.3em; color: #e0e0e0;">Community Event Platform</h3>
+      <p style="margin: 0 0 15px 0; font-size: 0.95em; color: #b0b0b0; line-height: 1.5;">A platform for discovering and promoting local community events, workshops, and meetups.</p>
+      <p style="margin: 0 0 15px 0; font-size: 0.85em; color: #888;"><code>Tech: Django, Bootstrap, SQLite, Leaflet.js</code></p>
+      <div style="display: flex; justify-content: space-between; gap: 10px;">
+        <a href="#" target="_blank" style="text-decoration: none; color: #3498db; font-weight: 600; padding: 8px 12px; border: 1px solid #3498db; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#3498db'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#3498db';">Live Demo</a>
+        <a href="#" target="_blank" style="text-decoration: none; color: #5cb85c; font-weight: 600; padding: 8px 12px; border: 1px solid #5cb85c; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#5cb85c'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#5cb85c';">Source Code</a>
       </div>
     </div>
   </div>
