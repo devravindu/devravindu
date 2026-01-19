@@ -84,10 +84,10 @@ Here are some of my notable projects. Hover over the cards to see more details!
     <div style="padding: 20px;">
       <h3 style="margin: 0 0 10px 0; font-size: 1.3em; color: #e0e0e0;">AI-Powered Data Analyzer</h3>
       <p style="margin: 0 0 15px 0; font-size: 0.95em; color: #b0b0b0; line-height: 1.5;">A tool that uses machine learning to analyze and visualize complex datasets, providing actionable insights.</p>
-      <p style="margin: 0 0 15px 0; font-size: 0.85em; color: #888;"><code>Tech: Python, Flask, React, D3.js</code></p>
+      <p style="margin: 0 0 15px 0; font-size: 0.85em; color: #aaa;"><code>Tech: Python, Flask, React, D3.js</code></p>
       <div style="display: flex; justify-content: space-between; gap: 10px;">
-        <a href="#" target="_blank" style="text-decoration: none; color: #3498db; font-weight: 600; padding: 8px 12px; border: 1px solid #3498db; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#3498db'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#3498db';">Live Demo</a>
-        <a href="#" target="_blank" style="text-decoration: none; color: #5cb85c; font-weight: 600; padding: 8px 12px; border: 1px solid #5cb85c; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#5cb85c'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#5cb85c';">Source Code</a>
+        <a href="#" target="_blank" style="text-decoration: none; color: #5dade2; font-weight: 600; padding: 8px 12px; border: 1px solid #5dade2; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#5dade2'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#5dade2';" aria-label="Live Demo for AI-Powered Data Analyzer">Live Demo</a>
+        <a href="#" target="_blank" style="text-decoration: none; color: #5cb85c; font-weight: 600; padding: 8px 12px; border: 1px solid #5cb85c; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#5cb85c'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#5cb85c';" aria-label="Source Code for AI-Powered Data Analyzer">Source Code</a>
       </div>
     </div>
   </div>
@@ -100,10 +100,10 @@ Here are some of my notable projects. Hover over the cards to see more details!
     <div style="padding: 20px;">
       <h3 style="margin: 0 0 10px 0; font-size: 1.3em; color: #e0e0e0;">Eco-Friendly Marketplace</h3>
       <p style="margin: 0 0 15px 0; font-size: 0.95em; color: #b0b0b0; line-height: 1.5;">An e-commerce platform connecting buyers and sellers of sustainable and eco-friendly products.</p>
-      <p style="margin: 0 0 15px 0; font-size: 0.85em; color: #888;"><code>Tech: Next.js, Node.js, PostgreSQL, Tailwind</code></p>
+      <p style="margin: 0 0 15px 0; font-size: 0.85em; color: #aaa;"><code>Tech: Next.js, Node.js, PostgreSQL, Tailwind</code></p>
       <div style="display: flex; justify-content: space-between; gap: 10px;">
-        <a href="#" target="_blank" style="text-decoration: none; color: #3498db; font-weight: 600; padding: 8px 12px; border: 1px solid #3498db; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#3498db'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#3498db';">Live Demo</a>
-        <a href="#" target="_blank" style="text-decoration: none; color: #5cb85c; font-weight: 600; padding: 8px 12px; border: 1px solid #5cb85c; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#5cb85c'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#5cb85c';">Source Code</a>
+        <a href="#" target="_blank" style="text-decoration: none; color: #5dade2; font-weight: 600; padding: 8px 12px; border: 1px solid #5dade2; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#5dade2'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#5dade2';" aria-label="Live Demo for Eco-Friendly Marketplace">Live Demo</a>
+        <a href="#" target="_blank" style="text-decoration: none; color: #5cb85c; font-weight: 600; padding: 8px 12px; border: 1px solid #5cb85c; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#5cb85c'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#5cb85c';" aria-label="Source Code for Eco-Friendly Marketplace">Source Code</a>
       </div>
     </div>
   </div>
@@ -116,10 +116,10 @@ Here are some of my notable projects. Hover over the cards to see more details!
     <div style="padding: 20px;">
       <h3 style="margin: 0 0 10px 0; font-size: 1.3em; color: #e0e0e0;">Interactive Storytelling Game</h3>
       <p style="margin: 0 0 15px 0; font-size: 0.95em; color: #b0b0b0; line-height: 1.5;">A web-based game where users make choices that dynamically affect the narrative and outcome.</p>
-      <p style="margin: 0 0 15px 0; font-size: 0.85em; color: #888;"><code>Tech: Vue.js, Firebase, HTML5 Canvas</code></p>
+      <p style="margin: 0 0 15px 0; font-size: 0.85em; color: #aaa;"><code>Tech: Vue.js, Firebase, HTML5 Canvas</code></p>
       <div style="display: flex; justify-content: space-between; gap: 10px;">
-        <a href="#" target="_blank" style="text-decoration: none; color: #3498db; font-weight: 600; padding: 8px 12px; border: 1px solid #3498db; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#3498db'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#3498db';">Live Demo</a>
-        <a href="#" target="_blank" style="text-decoration: none; color: #5cb85c; font-weight: 600; padding: 8px 12px; border: 1px solid #5cb85c; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#5cb85c'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#5cb85c';">Source Code</a>
+        <a href="#" target="_blank" style="text-decoration: none; color: #5dade2; font-weight: 600; padding: 8px 12px; border: 1px solid #5dade2; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#5dade2'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#5dade2';" aria-label="Live Demo for Interactive Storytelling Game">Live Demo</a>
+        <a href="#" target="_blank" style="text-decoration: none; color: #5cb85c; font-weight: 600; padding: 8px 12px; border: 1px solid #5cb85c; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#5cb85c'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#5cb85c';" aria-label="Source Code for Interactive Storytelling Game">Source Code</a>
       </div>
     </div>
   </div>
@@ -132,10 +132,10 @@ Here are some of my notable projects. Hover over the cards to see more details!
     <div style="padding: 20px;">
       <h3 style="margin: 0 0 10px 0; font-size: 1.3em; color: #e0e0e0;">Personal Finance Tracker</h3>
       <p style="margin: 0 0 15px 0; font-size: 0.95em; color: #b0b0b0; line-height: 1.5;">A user-friendly web app to track income, expenses, and set budgets, helping users manage their finances effectively.</p>
-      <p style="margin: 0 0 15px 0; font-size: 0.85em; color: #888;"><code>Tech: Ruby on Rails, StimulusJS, PostgreSQL, Chart.js</code></p>
+      <p style="margin: 0 0 15px 0; font-size: 0.85em; color: #aaa;"><code>Tech: Ruby on Rails, StimulusJS, PostgreSQL, Chart.js</code></p>
       <div style="display: flex; justify-content: space-between; gap: 10px;">
-        <a href="#" target="_blank" style="text-decoration: none; color: #3498db; font-weight: 600; padding: 8px 12px; border: 1px solid #3498db; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#3498db'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#3498db';">Live Demo</a>
-        <a href="#" target="_blank" style="text-decoration: none; color: #5cb85c; font-weight: 600; padding: 8px 12px; border: 1px solid #5cb85c; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#5cb85c'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#5cb85c';">Source Code</a>
+        <a href="#" target="_blank" style="text-decoration: none; color: #5dade2; font-weight: 600; padding: 8px 12px; border: 1px solid #5dade2; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#5dade2'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#5dade2';" aria-label="Live Demo for Personal Finance Tracker">Live Demo</a>
+        <a href="#" target="_blank" style="text-decoration: none; color: #5cb85c; font-weight: 600; padding: 8px 12px; border: 1px solid #5cb85c; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#5cb85c'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#5cb85c';" aria-label="Source Code for Personal Finance Tracker">Source Code</a>
       </div>
     </div>
   </div>
@@ -148,10 +148,10 @@ Here are some of my notable projects. Hover over the cards to see more details!
     <div style="padding: 20px;">
       <h3 style="margin: 0 0 10px 0; font-size: 1.3em; color: #e0e0e0;">Community Event Platform</h3>
       <p style="margin: 0 0 15px 0; font-size: 0.95em; color: #b0b0b0; line-height: 1.5;">A platform for discovering and promoting local community events, workshops, and meetups.</p>
-      <p style="margin: 0 0 15px 0; font-size: 0.85em; color: #888;"><code>Tech: Django, Bootstrap, SQLite, Leaflet.js</code></p>
+      <p style="margin: 0 0 15px 0; font-size: 0.85em; color: #aaa;"><code>Tech: Django, Bootstrap, SQLite, Leaflet.js</code></p>
       <div style="display: flex; justify-content: space-between; gap: 10px;">
-        <a href="#" target="_blank" style="text-decoration: none; color: #3498db; font-weight: 600; padding: 8px 12px; border: 1px solid #3498db; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#3498db'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#3498db';">Live Demo</a>
-        <a href="#" target="_blank" style="text-decoration: none; color: #5cb85c; font-weight: 600; padding: 8px 12px; border: 1px solid #5cb85c; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#5cb85c'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#5cb85c';">Source Code</a>
+        <a href="#" target="_blank" style="text-decoration: none; color: #5dade2; font-weight: 600; padding: 8px 12px; border: 1px solid #5dade2; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#5dade2'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#5dade2';" aria-label="Live Demo for Community Event Platform">Live Demo</a>
+        <a href="#" target="_blank" style="text-decoration: none; color: #5cb85c; font-weight: 600; padding: 8px 12px; border: 1px solid #5cb85c; border-radius: 6px; transition: background-color 0.3s, color 0.3s;" onmouseover="this.style.backgroundColor='#5cb85c'; this.style.color='#fff';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#5cb85c';" aria-label="Source Code for Community Event Platform">Source Code</a>
       </div>
     </div>
   </div>
