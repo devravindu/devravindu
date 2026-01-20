@@ -44,7 +44,7 @@ I have a strong foundation in:
 Here’s what I work with:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,nodejs,mysql,wordpress,webflow,git" alt="Tech Stack" width="600"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,nodejs,mysql,wordpress,webflow,git" alt="Tech Stack: HTML, CSS, JavaScript, React, PHP, Node.js, MySQL, WordPress, Webflow, Git" width="600"/>
 </p>
 
 ---
